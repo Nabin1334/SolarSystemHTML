@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(239, 239, 239);
+    background-color: rgb(129, 73, 0);
+    
+}
+table{
+    width: 600px;
+}
+th ,td {
+    padding: 7px 10px 10px ;
+}
+th{
+    text-transform: uppercase;
+letter-spacing: 0.1em;
+font-size: 90%;
+border-bottom: 2px solid;
+border-top: 1px solid ;
+text-align: 1px solid ;
+text-align: left;
+}
+tr.even{
+    background-color: aqua;
+}
+tr:hover{
+    background-color: rgb(80, 31, 0);
+}
+tr:nth-child(odd){
+    background-color: rgb(255, 92, 38);
+}

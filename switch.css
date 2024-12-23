@@ -1,0 +1,32 @@
+ h1{   
+    color: black;
+}
+button{
+    color: yellow;
+    background-color: black;
+}
+ body{
+    background-color: none;
+} 
+ div{
+    height: 100px;
+    width: 100px;
+    background-color:none; 
+ } 
+.loader{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 20px solid red;
+    background-color:none;
+    border-top :20px solid greenyellow;
+    animation:spinAnimate 4s ease-in-out 0s infinite normal;
+}
+@keyframes spinAnimate{
+    from{
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

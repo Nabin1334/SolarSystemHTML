@@ -1,0 +1,47 @@
+body {
+    font-family:Arial,sans-serif;
+    text-align:center;
+}
+h1{
+    color: #333;
+}
+#todo-container {
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+#add-button{
+    padding: 10px.20px;
+    font-size: 16px;
+
+}
+#task-list{
+    list-style-type:circle;
+    padding: 0;
+}
+#task-list li{
+    margin: 10px 0;
+    font-size: 18px;
+}
+#task-list li button{
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 14px;
+
+}
+#task-input{
+    margin: 10px auto;
+    padding: 5px;
+  width: 300px;  
+}
+h1{
+    text-align: left;
+    height:auto;
+    width:auto;
+}
+body{
+    background-color: chartreuse;
+    height: 200px;
+    width: 200px;
+}

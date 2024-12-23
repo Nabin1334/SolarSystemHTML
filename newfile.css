@@ -1,0 +1,20 @@
+
+body{
+    background-color: rgb(19, 99, 59);
+}
+li {
+    display: inline;
+    border: 1px solid rgb(90, 122, 80);
+    margin-right: 10px;
+    padding: 5px;
+    background-color: rgb(14, 1, 1);
+    color: rgb(18, 118, 204);
+    
+    .pet{
+        border: 1px solid;
+    }
+    
+}
+.coming-soon{
+    visibility: hidden;
+}

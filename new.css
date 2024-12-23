@@ -1,0 +1,25 @@
+
+p.intro::first-letter{
+    font-size: 150%;
+    color: darkorange;
+}
+a:link{
+color: rgb(189, 148, 189);
+text-transform: initial;
+
+    padding: 1.5rem;
+    margin: 1.5rem;
+}
+.Lclass{
+    color: rgb(37, 37, 128);
+}
+#lid {
+    color: rgb(120, 221, 19);
+}
+body{
+    background-color: none;
+
+}
+h1 {
+    text-align: center;
+}

@@ -1,0 +1,35 @@
+.new{
+    width: 400px;
+    height: 200px;
+    background: black;
+}
+.new hr{
+    width: 95%;
+    margin: 0 auto;
+}
+.new p{
+    color: rgb(142, 58, 58);
+    text-align: center;
+    margin: auto auto;
+}
+.new .second{
+    display: flex;
+    align-items: row;
+    justify-content: center;
+    align-items: center;
+    color: wheat;
+}
+.new .second i{
+    display:flex;
+    align-items: center;
+    background-color: rgb(202, 0, 0);
+}
+.new .third 
+{
+  color: brown;
+    background-color: blue; 
+   text-emphasis-color:rgb(226, 17, 156) ;
+}
+body{
+    background-color: rgb(72, 114, 30);
+}
