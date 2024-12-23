@@ -28,3 +28,7 @@ tr:hover{
 tr:nth-child(odd){
     background-color: rgb(255, 92, 38);
 }
+
+tr:nth-child(odd){
+    background-color: rgb(255, 92, 38);
+}
